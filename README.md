@@ -1,4 +1,5 @@
-# DELANI-STUDIOGINGER
+# DELANI-STUDIO 
+GINGER
 A web application based on the Delani Studio, June, 2021 By GINGER LAUREN Description. This is a web application by me,Ginger Lauren that shows the services offered to customers effieciently which include brand strategy and visual design to customers satisfaction
 
 Setup/Installation Requirements copy the url on arrow down Clone on your computer Go live or start your server No known bugs Technologies Used Html Css JavaScript Support and contact details ginger.lauren@student.moringaschool.com on Slack
